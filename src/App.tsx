@@ -84,13 +84,13 @@ function App() {
         orientation: IgcSplitPaneOrientation.horizontal,
         panes: [
           splitPane1,
-          splitPane2,awdawdawdawdawdawd
+          splitPane2
         ]
       }
     };
     
   }, []);
-22222
+  
   return (
     <div style={{height: '800px'}}>
       <igc-dockmanager id="dockManager">
