@@ -84,7 +84,7 @@ function App() {
         orientation: IgcSplitPaneOrientation.horizontal,
         panes: [
           splitPane1,
-          splitPane2
+          splitPane2,awdawdawdawdawdawd
         ]
       }
     };
