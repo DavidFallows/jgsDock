@@ -92,7 +92,7 @@ function App() {
   }, []);
   
   return (
-    <div style={{height: '800px'}}>
+    <div style={{height: '100vh'}}>
       <igc-dockmanager id="dockManager">
         <div slot="content1">Content 1</div>
         <div slot="content2">Content 2</div>
